@@ -27,3 +27,6 @@ Requirements:
         - If applicable, the app uses nested ViewGroups to reduce the complexity of the layout.
 * The app gracefully handles displaying all the content on screen when rotated. 
 Either by updating the layout, adding a scrollable feature or some other mechanism that adheres to Android development guidelines.
+
+
+link to downloadable APK : https://drive.google.com/open?id=15S_P12y0jI9_oJjJw0dhlQuUZe9Zj9qs
