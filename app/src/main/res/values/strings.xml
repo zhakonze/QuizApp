@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="ques1">1. In which continent is Zambia ?</string>
+    <string name="ques1_1">Africa</string>
+    <string name="ques1_2">Asia</string>
+    <string name="ques1_3">North America</string>
+
+    <string name="ques2">2. Which country colonised Zambia?</string>
+
+    <string name="ques3">3. When did Zambia get its independence?</string>
+    <string name="ques3_1">1940</string>
+    <string name="ques3_2">1964</string>
+    <string name="ques3_3">1960</string>
+
+    <string name="ques4">4. How many colors does the Zambian flag have and what extra feature?</string>
+    <string name="ques4_1">5</string>
+    <string name="ques4_2">4</string>
+    <string name="ques4_3">An Eagle</string>
+    <string name="ques4_4">A Star</string>
+
+    <string name="ques5">5. Who was the first black president of Zambia?</string>
+    <string name="ques5_1">Dr Kenneh Kaunda </string>
+    <string name="ques5_2">Dr Zakhele Hakonze</string>
+    <string name="ques5_3">Mr Chishimba Kabwe</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+</resources>
